@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#ffcdcdcd</color>
+    <color name="primary_dark">#ffaeaeae</color>
+    <color name="black">#ff050505</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#4C67AF</color>
+    <color name="orange">#F48151</color>
+
+
+    <color name="green">#45BA88</color>
+    <color name="turquoise">#40E0D0</color>
+
+    <color name="color1">#0F7A8D</color>
+    <color name="color2">#F3901B</color>
+    <color name="color3">#804E12</color>
+
+
+</resources>
